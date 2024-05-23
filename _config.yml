@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Dillon Noone"
   pronouns         : # example: "she/her"  
-  bio              : "Biomedical Engineering MS Student at Columbia University. Studying Neural Engineering and Tissue Biomechanics"
+  bio              : "Biomedical Engineering MS Student\nStudying Neural Engineering and Tissue Biomechanics"
   location         : "NYC"
   employer         : "Columbia University"
   uri              : # URL
